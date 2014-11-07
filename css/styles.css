@@ -1,3 +1,15 @@
-i > .cirle{
-	color: red;
+.green.ui.label{
+  color: green;
+}
+
+.red.ui.label{
+  color: red;
+}
+
+.yellow.ui.label{
+  color: #F2FF00;
+}
+
+.blue.ui.label{
+  color: blue;
 }
