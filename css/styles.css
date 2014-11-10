@@ -64,7 +64,7 @@ h2, p, a{
 }
 
 h2{
-	color: #FFB3C2;
+	color: #F990A4;
 }
 
 body{
@@ -75,7 +75,21 @@ h1{
 	text-decoration: underline;
 }
 
+.ui.horizontal.divider{
+	color: black;
+}
 
+.ui.grid>.sixteen.wide.column.ch{
+	background-color: #c7c0ac;
+}
+
+.ui.button{
+	margin: 10px;
+}
+
+p{
+	color: black;
+}
 
 
 
